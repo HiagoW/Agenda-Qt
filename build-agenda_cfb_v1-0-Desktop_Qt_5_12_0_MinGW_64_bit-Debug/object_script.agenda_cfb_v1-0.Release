@@ -1,0 +1,11 @@
+release/main.o
+release/janelalogin.o
+release/fm_principal.o
+release/fm_novocontato.o
+release/fm_pesquisacontatos.o
+release/fm_editarcontato.o
+release/moc_janelalogin.o
+release/moc_fm_principal.o
+release/moc_fm_novocontato.o
+release/moc_fm_pesquisacontatos.o
+release/moc_fm_editarcontato.o

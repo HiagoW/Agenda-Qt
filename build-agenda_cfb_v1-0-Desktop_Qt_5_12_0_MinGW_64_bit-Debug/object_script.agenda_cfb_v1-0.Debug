@@ -1,0 +1,11 @@
+debug/main.o
+debug/janelalogin.o
+debug/fm_principal.o
+debug/fm_novocontato.o
+debug/fm_pesquisacontatos.o
+debug/fm_editarcontato.o
+debug/moc_janelalogin.o
+debug/moc_fm_principal.o
+debug/moc_fm_novocontato.o
+debug/moc_fm_pesquisacontatos.o
+debug/moc_fm_editarcontato.o
